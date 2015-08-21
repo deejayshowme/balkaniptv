@@ -1,0 +1,517 @@
+#EXTM3U
+
+#EXTINF:-1, ROMANIAN CHANNELS[COLOR red]ROMANIAN TV[/COLOR]
+
+#EXTINF:-1,Freeiptv.ga DIGI24
+http://82.76.249.77:80/digi24edge/digi24hdhqhls/index.m3u8
+#EXTINF:-1,Freeiptv.ga JurnalTV
+http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga MBCHD
+http://87.248.160.8/edge/smil:mbc/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Moldova1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Boet
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Prime
+http://87.248.160.8/edge/smil:prime/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga ProTv
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga ProTvPrivesteChisinau
+http://87.248.160.8/edge/smil:protv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga PublikaTV
+http://87.248.160.8/edge/smil:publica/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga RealitateaTV
+http://87.248.160.8/edge/smil:realitate/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga TVC21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga M1
+http://87.248.160.8/edge/smil:m1/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga TVR
+http://87.248.160.8/edge/smil:tvr/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Bravo
+http://87.248.160.8/edge/smil:tnt/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga RTR
+http://87.248.160.8/edge/smil:rtrp/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga N4
+http://87.248.160.8/edge/smil:n4/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Tvc21
+http://87.248.160.8/edge/smil:tvc21/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga CTC
+http://87.248.160.8/edge/smil:sts/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Fight
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga SuperTv
+http://87.248.160.8/edge/smil:set/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga AltTv
+http://87.248.160.8/edge/smil:alttv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Accent
+http://87.248.160.8/edge/smil:accent/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga SorTv
+http://87.248.160.8/edge/smil:sortv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga RenTv
+http://87.248.160.8/edge/smil:rentv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga NorocTv
+http://87.248.160.8/edge/smil:noroc/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga BusuiocTv
+http://87.248.160.8/edge/smil:busuioc/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga GoldTv
+http://87.248.160.8/edge/smil:goldtv/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga 2PlusTv
+http://87.248.160.8/edge/smil:2plus/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Canal3
+http://87.248.160.8/edge/smil:canal3/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Animaux
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Science&VieTv
+http://87.248.160.8/edge/smil:encyclo/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga JurnalTv720P
+rtmp://87.248.160.8:80/edge/mp4:jurnaltv.stream_720p
+#EXTINF:-1,Freeiptv.ga Science&VieTv720P
+rtmp://87.248.160.8:80/edge/mp4:encyclo.stream_720p
+#EXTINF:-1,Freeiptv.ga Animaux720P
+rtmp://87.248.160.8:80/edge/mp4:animaux.stream_720p
+
+#EXTINF:-1, SERBIAN[COLOR red]SERBIANTV[/COLOR]
+
+#EXTINF:-1,Freeiptv.ga A1 Balkan
+rtmp://176.9.45.202:22222/live/alpha1
+#EXTINF:-1,Freeiptv.ga Al Jazeera Balkans
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_balkans_high
+#EXTINF:-1,Freeiptv.ga Atlas TV
+rtmp://tvstream.rtvatlas.tv/live/448k
+#EXTINF:-1,Freeiptv.ga Belle Amie TV
+rtmp://92.60.234.98:1935/live/myStream
+#EXTINF:-1,Freeiptv.ga BHT 1
+http://5.196.14.179:2501/live_tv_channels_on_www.sipragezabava.com
+#EXTINF:-1,Freeiptv.ga Bostel
+http://str105mb.setplex.net:1935/st3fstv/2ios_bostel1_718787/chunklist_w1766658184.m3u8
+#EXTINF:-1,Freeiptv.ga Discovery Balkan
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chdcbalkan/2012/11/20/30a60e55-1730-48b6-8d22-21cc46ab7d4e
+#EXTINF:-1,Freeiptv.ga DM SAT
+http://4.31.30.135:1935/st3fstv/17ios_DMSAT_4453811/krkan.m3u8
+#EXTINF:-1,Freeiptv.ga DSTV Music
+rtmp://46.249.95.140:80/live/livestream
+#EXTINF:-1,Freeiptv.ga Duga TV
+rtmp://w10.streamgb.com:1935/dugaplus/dugaplus
+#EXTINF:-1,Freeiptv.ga Europlus TV
+http://4.31.30.135:1935/st3fstv/7ios_Europlus_213384/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Face TV
+http://5.196.14.179:2505/live_tv_channels_on_www.sipragezabava.com
+#EXTINF:-1,Freeiptv.ga Fight Channel
+http://goo.gl/ICrLbA
+#EXTINF:-1,Freeiptv.ga Film Network uživo
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chfilmnetwork1/2014/12/23/cc8ce676-199b-4486-82b5-28731ce8c77b
+#EXTINF:-1,Freeiptv.ga FilmBox TV
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chrtvfb/2015/07/23/d82c5cc5-3bcf-4ae2-b052-227f00fc7568
+#EXTINF:-1,Freeiptv.ga FTV BiH
+http://str105mb.setplex.net:1935/st3fstv/4ios_Federalna_974816/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga H1 TV (Filmski)
+rtmp://hugo-iptv.zapto.org/live/h1
+#EXTINF:-1,Freeiptv.ga HRT 1
+http://213.5.58.58:1935/hrt_live/smil:hrt1.smil/chunklist_w850655049_b1256000_sleng.m3u8
+#EXTINF:-1,Freeiptv.ga HRT 2
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/chunklist_w366118680_b1256000_sleng.m3u8
+#EXTINF:-1,Freeiptv.ga HRT 3
+http://213.5.58.58:1935/hrt_live/smil:hrt3.smil/chunklist_w1753891444_b1256000_sleng.m3u8
+#EXTINF:-1,Freeiptv.ga KCN 1
+http://178.79.24.7:9011/
+#EXTINF:-1,Freeiptv.ga KCN 2
+http://178.79.24.7:9012/
+#EXTINF:-1,Freeiptv.ga Klasik TV
+http://goo.gl/oOA2qb
+#EXTINF:-1,Freeiptv.ga N1 Televizija
+http://151.252.32.234:8080/stream/?fw=true&route=ch3_1&rule=null&sp=n1info&channel=n1bihsi3sbb&stream=1mb&u=n1info&adaptive=null&b=3&player=http
+#EXTINF:0,Freeiptv.ga RTS 1
+http://edge1.volim.tv/live/rts_1.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga RTS 2
+http://edge1.volim.tv/live/rts_2.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga PINK
+http://edge1.volim.tv/live/pink.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga PRVA TV
+http://edge1.volim.tv/live/prva.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga B92
+http://edge1.volim.tv/live/b92.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga HAPPY
+http://edge1.volim.tv/live/happy.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga spaniolac HRT 1
+http://edge1.volim.tv/live/hrt_1.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga HRT 2
+http://edge1.volim.tv/live/hrt_2.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga KANAL 3
+http://edge1.volim.tv/live/kanal_3.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga OBN
+http://edge1.volim.tv/live/obn.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga PALMA PLUS
+http://edge1.volim.tv/live/palma.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga RTCG SAT
+http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga RTRS
+http://edge1.volim.tv/live/rtrs.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga RTV 1
+http://edge1.volim.tv/live/rtv_1.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga SOS
+http://edge1.volim.tv/live/sos.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:0,Freeiptv.ga STUDIO B
+http://edge1.volim.tv/live/studio_b.stream/playlist.m3u8?hash=93a313ee8bc335367f4f03cd18a31c7d433d5ed2
+#EXTINF:-1,Freeiptv.ga  H1 mkd
+rtmp://hugo-iptv.zapto.org/live//h1
+#EXTINF:-1,Freeiptv.ga  KANAL 5 plus mkd
+http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga  24 vesti  mkd
+mms://62.162.58.55/24vesti
+#EXTINF:-1,Freeiptv.ga  MTV 1 mkd
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3551/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w2141491901_b1196000.m3u8
+#EXTINF:-1,Freeiptv.ga  MTV 2 mkd
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w55190976_b1196000.m3u8
+#EXTINF:0,Freeiptv.ga MRT 1 SAT
+http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt1-sat/chunklist_w636127703.m3u8
+#EXTINF:0,Freeiptv.ga MRT 2 SAT
+http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt2-sat/chunklist_w1723967079.m3u8
+#EXTINF:0,Freeiptv.ga MRT SAT
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3545/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w927907065_b1196000.m3u8
+#EXTINF:0,Freeiptv.ga KANAL 5
+http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
+#EXTINF:0,Freeiptv.ga ALSAT
+http://fms.zulu.mk:1935/zulu/alsat_2/playlist.m3u8?wowzasessionid=617042447
+#EXTINF:0,Freeiptv.ga ERA TV
+http://fms.zulu.mk:1935/zulu/era_2/playlist.m3u8?wowzasessionid=1296829503
+#EXTINF:0,Freeiptv.ga NAŠA TV
+http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
+#EXTINF:0,Freeiptv.ga SITEL TV
+http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+#EXTINF:0,Freeiptv.ga SITEL 3 TV
+http://fms.zulu.mk:554/zulu/sitel3_1/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,Freeiptv.ga A 1 STRUMICA
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
+#EXTINF:0,Freeiptv.ga K 3 KUMANOVO
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8
+#EXTINF:0,Freeiptv.ga SHUTEL
+http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
+#EXTINF:0,Freeiptv.ga TELMA
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,Freeiptv.ga TV K1 VELES
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8
+#EXTINF:0,Freeiptv.ga O2 OHRID
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
+
+#EXTINF:-1, SPORTS[COLOR red]SPORTSTV[/COLOR]
+
+#EXTINF:-1,Freeiptv.ga Bein Sports1
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/518.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports2
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/519.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports3
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/520.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports4
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/521.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports5
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/522.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports6
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/523.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports7
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/525.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports8
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/524.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports9
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/526.m3u8
+#EXTINF:-1,Freeiptv.ga Bein Sports10
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/527.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport 24 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/29.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport 1 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/30.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport 2 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/31.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport 3 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/32.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport Plus HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/33.m3u8
+#EXTINF:-1,Freeiptv.ga FOX Sport HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/35.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport F1 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/36.m3u8
+#EXTINF:-1,Freeiptv.ga Sky Sport MotoGP HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/37.m3u8
+#EXTINF:-1,Freeiptv.ga EuroSport HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/38.m3u8
+#EXTINF:-1,Freeiptv.ga EuroSport 2 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/39.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Cinema +24
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/372.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Cinema 2 HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/465.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Cinema 2 +24
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/466.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Emotion
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/90.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Energy
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/89.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Comedy
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/111.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Joy
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/113.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Mya
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/114.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Action HD
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/469.m3u8
+#EXTINF:-1,Freeiptv.ga Premium Action +24
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/115.m3u8
+#EXTINF:-1,Freeiptv.ga PREMIUM CRIME +24
+http://proffiptv.mine.nu:15003/live/tvgalaxynew1/0VbE5RQrtX/116.m3u8
+#EXTINF:-1,Freeiptv.ga  SKY SPORTS 1 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,Freeiptv.ga  SKY SPORTS 2 HD
+rtmp://109.200.1.82:1935/tes/skysp2.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,Freeiptv.ga  SKY SPORTS 3 HD
+rtmp://109.200.1.82:1935/tes/skysp3.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,Freeiptv.ga  SKY SPORTS 4 HD
+rtmp://109.200.1.82:1935/tes/skysp4.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,Freeiptv.ga  SKY SPORTS 5 HD
+rtmp://109.200.1.82:1935/tes/skysp1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,Freeiptv.ga  SKY SPORTS F1 HD
+rtmp://109.200.1.82:1935/tes/skyspf1.stream?e607b5b743e1842ee50e1556bbf3ae42
+#EXTINF:-1,Freeiptv.ga  Cinema 1 Turk
+mmsh://50.7.207.114:80/sinema1?MSWMExt=.asf
+#EXTINF:-1,Freeiptv.ga  Cinema 2
+mmsh://50.7.207.114:80/sinema2?MSWMExt=.asf
+#EXTINF:-1,Freeiptv.ga  Cinema 3
+mmsh://50.7.207.114:80/sinema3?MSWMExt=.asf
+#EXTINF:-1,Freeiptv.ga  Cinema 4
+mmsh://50.7.207.114:80/sinema4?MSWMExt=.asf
+#EXTINF:-1,Freeiptv.ga  Cinema 5
+mmsh://50.7.207.114:80/sinema5?MSWMExt=.asf
+#EXTINF:-1,Freeiptv.ga  Cinema 6
+mmsh://50.7.207.114:80/sinema6?MSWMExt=.asf
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga DIGI SPORT 1
+rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga DIGI SPORT 2
+rtmp://195.154.162.159:80/liverepeater playpath=128747 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga DIGI SPORT 3
+rtmp://195.154.162.159:80/liverepeater playpath=128748 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1,Freeiptv.ga  ITV
+http://81.92.105.134:5555/pl.m3u8?channel=89
+#EXTINF:-1,Freeiptv.ga  ITV 2
+http://81.92.105.134:5555/pl.m3u8?channel=90
+#EXTINF:-1,Freeiptv.ga  ITV 3
+http://81.92.105.134:5555/pl.m3u8?channel=91
+#EXTINF:-1,Freeiptv.ga  ITV 4
+http://81.92.105.134:5555/pl.m3u8?channel=92
+#EXTINF:-0,Freeiptv.ga MBC 4
+http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
+#EXTINF:-0,Freeiptv.ga MBC Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:-0,Freeiptv.ga MBC Action
+http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8.
+#EXTINF:-0,Freeiptv.ga dubaione
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-0,Freeiptv.ga noordubaitv
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-0,Freeiptv.ga Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-0,Freeiptv.ga Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-0,Freeiptv.ga DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-0,Freeiptv.ga Zee Aflem
+http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w1945428695.m3u8
+#EXTINF:-0,Freeiptv.ga Aghani TV
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-0,Freeiptv.ga Al yawm
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-0,Freeiptv.ga Royal-Secret
+http://94.127.209.149:8080/secretsx/playlist.m3u8
+#EXTINF:-0,Freeiptv.ga Royal-Edhak
+http://94.127.209.149:8080/edhakx/playlist.m3u8
+#EXTINF:-0,Freeiptv.ga DW Arabia
+http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+#EXTINF:-0,Freeiptv.ga Zee Aflem
+http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w1945428695.m3u8
+#EXTINF:-0,Freeiptv.ga Aghani TV
+http://66.135.32.50/aghanitv/aghanitv/chunklist_w775380517.m3u8
+#EXTINF:-0,Freeiptv.ga Al yawm
+http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
+#EXTINF:-0,Freeiptv.ga Aljazeera Doc
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
+#EXTINF:-0,Freeiptv.ga Aljazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/160.m3u8
+#EXTINF:-0,Freeiptv.ga AL Arabiya TV
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-0,Freeiptv.ga AL Hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,Freeiptv.ga More4
+http://81.92.105.134:5555/pl.m3u8?channel=94
+#EXTINF:-1,Freeiptv.ga FRANCE TV
+http://88.141.4.217:9003/3
+#EXTINF:-1,Freeiptv.ga FRANCE TV2
+http://88.141.4.217:9005/5
+#EXTINF:-1,Freeiptv.ga FRANCE TV3
+http://88.141.4.217:9006/6
+#EXTINF:-1,Freeiptv.ga FRANCE TV4
+http://88.141.4.217:9007/7
+#EXTINF:-1,Freeiptv.ga FRANCE TV5
+http://88.141.4.217:9008/8
+#EXTINF:-1,Freeiptv.ga FRANCE TV6
+http://88.141.4.217:9009/9
+#EXTINF:-1,Freeiptv.ga 13 RUE
+http://88.141.4.217:9010/10
+#EXTINF:-1,Freeiptv.ga SYFY HD
+http://88.141.4.217:9011/11
+#EXTINF:-1,Freeiptv.ga CANAL+SPORT
+http://88.141.4.217:9004/4
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga TF1
+http://streaming-hub.com/tv/i/tf1_1@97468/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga France 2
+http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Freeiptv.ga  France2 (stream 2)
+http://81.92.105.134:5555/pl.m3u8?channel=401
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga France 3
+http://streaming-hub.com/tv/i/france3_1@97329/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Freeiptv.ga  France3 (stream 2)
+http://81.92.105.134:5555/pl.m3u8?channel=402
+#EXTINF:-1,Freeiptv.ga  France4
+http://81.92.105.134:5555/pl.m3u8?channel=403
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga France 5
+http://streaming-hub.com/tv/i/france5_1@97351/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Freeiptv.ga  France5 (stream 2)
+http://81.92.105.134:5555/pl.m3u8?channel=404
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga M6 HD
+http://streaming-hub.com/tv/i/m6_1@97467/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga D8
+http://stream.streaming-hub.com:8180/live/hls/d8-clair-v3-sd-and/and-sd-clair/index.m3u8
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga D17
+http://stream.streaming-hub.com:8180/live/hls/d17-clair-v3-sd-and/and-sd-clair/index.m3u8
+#EXTINF:-1,Freeiptv.ga RTL9
+http://streaming-hub.com/tv/i/rtl9_1@97354/index_1300_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Freeiptv.ga France
+http://81.92.105.134:5555/pl.m3u8?channel=411
+#EXTINF:-1,Freeiptv.ga  D17
+http://81.92.105.134:5555/pl.m3u8?channel=414
+#EXTINF:-1,Freeiptv.ga  NT1
+http://81.92.105.134:5555/pl.m3u8?channel=416
+#EXTINF:-1,Freeiptv.ga  TMC
+http://81.92.105.134:5555/pl.m3u8?channel=412
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga Animaux HD
+http://87.248.160.8/edge/smil:animaux/playlist.m3u8
+#EXTINF:-1,Freeiptv.ga Freeiptv.ga LA CHAINE NORMANDIE
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+
+#EXTINF:-1, USA/UK TV[COLOR red]LIVETV/SPORTS[/COLOR]
+
+#EXTINF:0,Freeiptv.ga BBC Sport
+http://93.184.221.133/00573D/1104/1104-0.m3u8
+#EXTINF:0,Freeiptv.ga British Eurosport
+http://93.184.221.133/00573D/1210/1210-0.m3u8
+#EXTINF:0,Freeiptv.ga British Eurosport 2
+http://93.184.221.133/00573D/1211/1211-0.m3u8
+#EXTINF:0,Freeiptv.ga Sky Sports News
+http://93.184.221.133/00573D/183/183-0.m3u8
+#EXTINF:0,Freeiptv.ga Viasat Golf (1)
+http://93.184.221.133/00573D/204/204-0.m3u8
+#EXTINF:0,Freeiptv.ga Viasat Golf (2)
+http://93.184.221.133/00573D/911/911-0.m3u8
+#EXTINF:0,Freeiptv.ga Fox 11 USA
+http://93.184.221.133/00573D/1093/1093-0.m3u8
+#EXTINF:0,Freeiptv.ga ABC7 USA
+http://93.184.221.133/00573D/1086/1086-0.m3u8
+#EXTINF:0,Freeiptv.ga CNBC USA
+http://93.184.221.133/00573D/1085/1085-0.m3u8
+#EXTINF:0,Freeiptv.ga CBS 2 USA
+http://93.184.221.133/00573D/1084/1084-0.m3u8
+#EXTINF:0,Freeiptv.ga BOXNATION
+http://93.184.221.133/00573D/1222/1222-0.m3u8
+#EXTINF:0,Freeiptv.ga EURONEWS
+http://93.184.221.133/00573D/346/346-0.m3u8
+#EXTINF:0,Freeiptv.ga DRAMA CHANNEL
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,Freeiptv.ga DISCOVERY EUROPE
+http://93.184.221.133/00573D/1347/1347-0.m3u8
+#EXTINF:0,Freeiptv.ga DISCOVERY HISTORY
+http://93.184.221.133/00573D/1348/1348-0.m3u8
+#EXTINF:0,Freeiptv.ga DAVE
+http://93.184.221.133/00573D/290/290-0.m3u8
+#EXTINF:0,Freeiptv.ga SKY INFO
+http://93.184.221.133/00573D/1451/1451-0.m3u8
+#EXTINF:0,Freeiptv.ga RTE 1
+http://93.184.221.133/00573D/345/345-0.m3u8
+#EXTINF:0,Freeiptv.ga C-MORE
+http://93.184.221.133/00573D/1460/1460-0.m3u8
+#EXTINF:0,Freeiptv.ga NAT GEO
+http://93.184.221.133/00573D/338/338-0.m3u8
+#EXTINF:0,Freeiptv.ga MTV MUSIC TELEVISION
+http://93.184.221.133/00573D/1345/1345-0.m3u8
+#EXTINF:0,Freeiptv.ga MOVIES 4
+http://93.184.221.133/00573D/311/311-0.m3u8
+#EXTINF:0,Freeiptv.ga CHANNEL 6
+http://93.184.221.133/00573D/231/231-0.m3u8
+#EXTINF:0,Freeiptv.ga CHANNEL 4
+http://93.184.221.133/00573D/292/292-0.m3u8
+#EXTINF:0,Freeiptv.ga CBS REALITY
+http://93.184.221.133/00573D/713/713-0.m3u8
+#EXTINF:0,Freeiptv.ga CBS DRAMA
+http://93.184.221.133/00573D/712/712-0.m3u8
+#EXTINF:0,Freeiptv.ga CBS ACTION
+http://93.184.221.133/00573D/711/711-0.m3u8
+#EXTINF:0,Freeiptv.ga PLUS 3
+http://93.184.221.133/00573D/232/232-0.m3u8
+#EXTINF:0,Freeiptv.ga TG 4
+http://93.184.221.133/00573D/348/348-0.m3u8
+
+
+HUSHAM SPORTS
+
+
+#EXTINF:-1,Fox Sports 1
+rtmp://178.18.31.52:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191359?183055?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1,Fox Sports 1
+live://edge.mdcgate.com/livemedia/tool/get_links.php?StreamId=8538
+#EXTINF:-1,Fox sport 2
+rtmp://31.220.0.195:80/live/fox22 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fox22x?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1,Fox sport 2
+rtmp://178.18.31.63:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191782?183055?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1,ESPN 1 US HD 
+rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+#EXTINF:-1,ESPN 2 US
+rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1,ESPN 3 - Not English
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+#EXTINF:-1,NBC US
+http://128.105.21.253:8080/udp/239.1.1.84:3084
+#EXTINF:-1,NBC Sports USA 
+rtmp://31.220.0.195:80/live/golfx pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=golf?btx22?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1,Bein USA
+rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf  live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030      token=#ed%h0#w@1
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 640*360
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 640*360
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1280*720
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 640*360
+http://xrxs.net/video/live-p12wash-1164.m3u8
+
+#EXTINF:-1,Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
+http://xrxs.net/video/live-p12wash-4728.m3u8
